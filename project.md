@@ -62,7 +62,7 @@ These are explicit instructions showing the student how to solve the task.
 
 ```yaml
 type: NotebookTask
-key: fef59c18d3
+key: c232fd5317
 ```
 
 `@context`
@@ -91,7 +91,7 @@ These are explicit instructions showing the student how to solve the task.
 
 ```yaml
 type: NotebookTask
-key: fef59c18d4
+key: e374af6253
 ```
 
 `@context`
@@ -120,7 +120,7 @@ These are explicit instructions showing the student how to solve the task.
 
 ```yaml
 type: NotebookTask
-key: fef59c18d5
+key: 66111db5fd
 ```
 
 `@context`
@@ -149,7 +149,7 @@ These are explicit instructions showing the student how to solve the task.
 
 ```yaml
 type: NotebookTask
-key: fef59c18d6
+key: 3ab387735c
 ```
 
 `@context`
@@ -178,7 +178,7 @@ These are explicit instructions showing the student how to solve the task.
 
 ```yaml
 type: NotebookTask
-key: fef59c18d7
+key: 5a21510440
 ```
 
 `@context`
